@@ -15,4 +15,4 @@ Demo:
 ## Learn More
 
 - [React documentation](https://reactjs.org/)
-- [Vite](crlnvls/UI-UX-website)
+- [Vite](https://vitejs.dev/)
