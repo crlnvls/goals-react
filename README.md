@@ -1,8 +1,9 @@
 
 # Simple goals list created with React
 
-- Part of the React - The Complete Guide (incl Hooks, React Router, Redux) course by Maximilian Schwarzmüller
 - Practice of CSS styling in React 
+- Part of the React - The Complete Guide (incl Hooks, React Router, Redux) course by Maximilian Schwarzmüller
+
 
 ## Installation & Usage
 
