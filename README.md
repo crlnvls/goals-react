@@ -2,8 +2,7 @@
 # Simple goals list created with React
 
 Part of the React - The Complete Guide (incl Hooks, React Router, Redux) course by Maximilian Schwarzmüller
-
-Demo: 
+Practice of CSS styling in React 
 
 ## Installation & Usage
 
@@ -16,4 +15,6 @@ Demo:
 
 - [React documentation](https://reactjs.org/)
 - [Vite](https://vitejs.dev/)
+- [Styled Components](https://styled-components.com/)
+- [CSS modules](https://create-react-app.dev/docs/adding-a-css-modules-stylesheet/)
 
